@@ -3,7 +3,7 @@
 # Introduction
 This respository contains a python file which was used for coding, wrangle_report.pdf file which is the 
 # Obejective
-Wrangle the twitter data (@WeRateDogs) in order to create meaningful analyses and visualizations from the dataset
+Wrangle the twitter data (@WeRateDogs) in order to create meaningful analysis and visualizations from the dataset
 # Python packages used
 - Pandas
 - Numpy
